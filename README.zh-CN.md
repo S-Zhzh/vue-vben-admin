@@ -70,6 +70,9 @@ git clone https://github.com/vbenjs/vue-vben-admin.git
 ```bash
 cd vue-vben-admin
 
+npm install -g pnpm
+set-ExecutionPolicy RemoteSigned
+
 pnpm install
 
 ```
